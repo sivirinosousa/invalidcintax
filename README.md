@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @invalidcintax
-- 👀 I’m interested in python and games
-- 🌱 I’m currently learning python, java and how to use github
-- 🤓 I’m looking to collaborate on python projects
-- ⚡ Fun fact: fortnite moves
+I enjoy building practical solutions that organize data, automate processes and make information easier to use.
+Most of my projects focus on:
 
-<!---
-invalidcintax/invalidcintax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+data automation
+internal tools
+analytics workflows
+
+improving how teams collect and use data
+Always experimenting with ways to connect code, data and business problems.
